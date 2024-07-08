@@ -23,7 +23,7 @@ My findings indicate that the Hollywood Walk of Fame is predominantly white and 
 This project significantly improved my scraping skills and techniques. Scraping multiple tables is challenging, but I completed the task.
 
 ## Future Work
-Given more time, I would like to visualize changes over time, particularly in the last 10 years, to see if people of color are receiving more stars on the Walk of Fame. It would also be interesting to investigate who is paying the hefty price tag of $78,000 for a star.
+Given more time, I would like to visualize changes over time, particularly in the last 10 years, to see if people of color are receiving more stars on the Walk of Fame. It would also be interesting to investigate who is paying the hefty price tag of $78,000 for a star. Also I would like to see who is on the committee to approve the nominations. 
 
 ## Project Page
 You can view the project here: https://jsorrell99.github.io/Project1/
