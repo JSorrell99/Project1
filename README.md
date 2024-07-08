@@ -5,7 +5,7 @@ After delving into a massive rabbit hole, I decided to analyze stars on the Holl
 
 ## Data Collection
 I first scraped data from Wikipedia’s "List of stars on the Hollywood Walk of Fame." I created a CSV file with the names, categories, and dates of the stars. Then, I scraped data from the Hollywood Walk of Fame webiste, filtering by race. Using Excel, I matched the names to their corresponding races. I combined Caucasian and Australian into “white,” African Americans I combined with “Black.”  For about 300 names that lacked race information, I had to manually enter the details by Googling the person or group. Cartoon characters, magazines, restaurants, events, etc., were labeled as N/A.
-Links: 
+## Links: 
 * https://en.wikipedia.org/wiki/List_of_stars_on_the_Hollywood_Walk_of_Fame
 * https://walkoffame.com/
 
