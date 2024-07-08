@@ -4,7 +4,8 @@ This is my submission for the Lede Program’s Project One - to create a simple 
 After delving into a massive rabbit hole, I decided to analyze stars on the Hollywood Walk of Fame as a scraping project. Initially, my goal was to find out who had the most stars, but the more data I uncovered, the more I noticed something: the Walk of Fame is very WHITE. This prompted me to dig deeper.
 
 ## Data Collection
-I first scraped data from Wikipedia’s List of stars on the Hollywood Walk of Fame and created a CSV file with the names, categories, and dates of the stars. Then, I scraped data from the Hollywood Walk of Fame, filtering by race. Using Excel, I matched the names to their corresponding races. I combined Caucasian and Australian into “white.” African Americans I combined with “Black.”  For about 300 names that lacked race information, I had to manually enter the details by Googling the person or group. Cartoon characters, magazines, restaurants, events, etc., were labeled as N/A.
+I first scraped data from Wikipedia’s List of stars on the [Hollywood Walk of Fame]([url](https://en.wikipedia.org/wiki/List_of_stars_on_the_Hollywood_Walk_of_Fame) and the website for [Hollywod the Walk of Fame](https://walkoffame.com/). I created a CSV file with the names, categories, and dates of the stars. Then, I scraped data from the Hollywood Walk of Fame, filtering by race. Using Excel, I matched the names to their corresponding races. I combined Caucasian and Australian into “white,” African Americans I combined with “Black.”  For about 300 names that lacked race information, I had to manually enter the details by Googling the person or group. Cartoon characters, magazines, restaurants, events, etc., were labeled as N/A.
+
 
 ## Findings
 My findings indicate that the Hollywood Walk of Fame is predominantly white and heavily favors the motion picture industry.
